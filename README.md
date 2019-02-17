@@ -1,2 +1,2 @@
 # gittest2
-Git testing from Linux
+Git testing from linux
